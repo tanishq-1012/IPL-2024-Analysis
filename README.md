@@ -48,5 +48,13 @@ Analyzes run rates and wickets lost in each phase.
 
 7. Batter Strike Rate Calculation
 Computes strike rates of batters based on runs scored and balls faced.
+
+# Dependencies
+
+Ensure you have the following libraries before running the scripts:
+
+pip install pandas matplotlib seaborn
+
+
 Displays the top 20 batters ranked by strike rate.
 
