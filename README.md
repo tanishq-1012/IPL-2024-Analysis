@@ -98,3 +98,21 @@ The combined bar and line plot provides a comprehensive overview of the bowling 
 
 <img width="559" alt="Screenshot 2025-02-22 at 11 01 59 PM" src="https://github.com/user-attachments/assets/022ded80-281a-47fa-9a2e-0ad6057b2a70" />
 
+This above pie chart graph analyze the type of dimissals that occured during the match to understand how most wickets were taken(e.g., caught, bowled, run out). This can provide insights into nature of pitch and the playing conditions.
+
+## Plot 5
+
+<img width="841" alt="Screenshot 2025-02-22 at 11 02 29 PM" src="https://github.com/user-attachments/assets/7035d4f9-5eba-48d2-bf32-b5c354656284" />
+
+The above graph performs partnerships Analysis by calculating and visualizing the most productive batting partnership in match. We'll look at runs scored per partnership and how long each partnership lasted in terms of balls faced:
+The bar chart displays significant batting partnerships from the match, highlighting partnerships that scored more than 20 runs. Here's how these insights contribute to our analysis:
+
+1. The chart identifies key partnerships that likely had a substantial impact on the match's outcomes, effectiveness of batting pairs.
+
+2. It provides insights into which players were involved in pivotal stands, which can help in assessing player forms and team strategy.
+
+## Plot 6
+
+<img width="841" alt="Screenshot 2025-02-22 at 11 02 42 PM" src="https://github.com/user-attachments/assets/270b468e-bc35-4594-bb2b-3fb78627d4af" />
+
+
