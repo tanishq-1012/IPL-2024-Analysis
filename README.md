@@ -55,6 +55,29 @@ Ensure you have the following libraries before running the scripts:
 
 pip install pandas matplotlib seaborn
 
+## Dataset
 
-Displays the top 20 batters ranked by strike rate.
+The dataset has several null values. But we don't need to drop any row with null values in this case or fill any null values as it affect the data.
+
+<img width="706" alt="Screenshot 2025-02-22 at 11 00 03 PM" src="https://github.com/user-attachments/assets/2fb91350-2f0c-4fd7-b978-fb9bf9a6aa85" />
+
+## Plot 1
+
+<img width="872" alt="Screenshot 2025-02-22 at 11 00 38 PM" src="https://github.com/user-attachments/assets/76e865ff-6d15-49a3-ba14-ef6ecf957b17" />
+
+The above plot shows the run distribution per over for both teams. Here are some insights:
+
+1. The scoring rate for each team shows fluctuations throughout their inning, with spikes indicating overs with high scoring, likely due to boundaries or big hits.
+2. Royal Challengers Bangalore(RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.
+
+## Plot 2
+
+<img width="935" alt="Screenshot 2025-02-22 at 11 00 59 PM" src="https://github.com/user-attachments/assets/09eed65d-5b84-4dfc-8c12-25dba1405efb" />
+
+Key Oservations from the above graph include:
+
+1. **AR Patel** from Delhi Capitals is the top scorer of the match, significantly outscoring others with a littel over 50 runs.
+2. **RM Patidar** is the top scorer for Royal Challengers Bangalore, closely approaching 50 runs.
+3. The graph display diverse contribution from both teams, with several players from both sides contributing notable scores.
+
 
