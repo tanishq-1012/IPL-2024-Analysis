@@ -3,7 +3,7 @@
 # Overview
 This project analyzes the IPL 2024 match between Royal Challengers Bengaluru (RCB) and Delhi Capitals (DC) using Python. It provides insights into team performance, batting, bowling, partnerships, and match phases through various data visualizations.
 
-# IPL 2024 RCB Vs DC Analysis: Dataset
+## IPL 2024 RCB Vs DC Analysis: Dataset
 
 The  dataset we collected for this IPL match analysis contains the following columns:
 
@@ -19,37 +19,38 @@ The  dataset we collected for this IPL match analysis contains the following col
 10. wicket_kind: Types of dismissal(if any).
 11. filders: Names of the fielders involved in the dismissal(if any) 
 
-# Features
+## Features
 
 The project performs multiple analyses and visualizations using Pandas, Matplotlib, and Seaborn.
-1. Run Distribution Per Over
+
+1. **Run Distribution Per Over**
 Plots the total runs scored per over for both teams.
 Uses a line plot to visualize scoring trends.
 
-2. Top Scorers Analysis
+2. **Top Scorers Analysis**
 Identifies the highest run-scorers from each team.
 Displays a bar chart comparing individual contributions.
 
-3. Bowling Performance Analysis
+3. **Bowling Performance Analysis**
 Calculates economy rate (runs conceded per over) for each bowler.
 Displays wickets taken and economy rates using bar and line plots.
 
-4. Dismissal Types
+4. **Dismissal Types**
 Analyzes how batters got out.
 Uses a pie chart to visualize different modes of dismissals.
 
-5. Batting Partnerships
+5. **Batting Partnerships**
 Calculates significant partnerships (20+ runs).
 Uses a bar plot to highlight top partnerships.
 
-6. Match Phase Analysis
+6. **Match Phase Analysis**
 Divides the match into Powerplay (0-6 overs), Middle Overs (7-15), and Death Overs (16-20).
 Analyzes run rates and wickets lost in each phase.
 
-7. Batter Strike Rate Calculation
+7. **Batter Strike Rate Calculation**
 Computes strike rates of batters based on runs scored and balls faced.
 
-# Dependencies
+## Dependencies
 
 Ensure you have the following libraries before running the scripts:
 
@@ -68,6 +69,7 @@ The dataset has several null values. But we don't need to drop any row with null
 The above plot shows the run distribution per over for both teams. Here are some insights:
 
 1. The scoring rate for each team shows fluctuations throughout their inning, with spikes indicating overs with high scoring, likely due to boundaries or big hits.
+
 2. Royal Challengers Bangalore(RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.
 
 ## Plot 2
@@ -77,7 +79,17 @@ The above plot shows the run distribution per over for both teams. Here are some
 Key Oservations from the above graph include:
 
 1. **AR Patel** from Delhi Capitals is the top scorer of the match, significantly outscoring others with a littel over 50 runs.
+
 2. **RM Patidar** is the top scorer for Royal Challengers Bangalore, closely approaching 50 runs.
+
 3. The graph display diverse contribution from both teams, with several players from both sides contributing notable scores.
 
+## Polt 3
 
+<img width="1001" alt="Screenshot 2025-02-22 at 11 01 27 PM" src="https://github.com/user-attachments/assets/7b26ed6b-f733-4204-8d25-381f1a773188" />
+
+The combined bar and line plot provides a comprehensive overview of the bowling performance of each team:
+
+1. **Wicket Taken**: The bars indicate the numbers of wickets each bowler took during the match. The height of the bars reflects how succesful the bowlers were in terms of taking wickets. Bowlers from both teams contributed to taking wickets, with some notable performances that stand out due to higher bars.
+
+2. **Economy Rate**: The line graph overlaid on the bar graph shows the economy rate(number of runs conceded per over) of each bowler. The economy rate is crucial as it indicates how economically a bowler has bowled in terms of runs given away. 
