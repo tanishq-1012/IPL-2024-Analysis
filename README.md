@@ -93,3 +93,8 @@ The combined bar and line plot provides a comprehensive overview of the bowling 
 1. **Wicket Taken**: The bars indicate the numbers of wickets each bowler took during the match. The height of the bars reflects how succesful the bowlers were in terms of taking wickets. Bowlers from both teams contributed to taking wickets, with some notable performances that stand out due to higher bars.
 
 2. **Economy Rate**: The line graph overlaid on the bar graph shows the economy rate(number of runs conceded per over) of each bowler. The economy rate is crucial as it indicates how economically a bowler has bowled in terms of runs given away. 
+
+## Plot 4
+
+<img width="559" alt="Screenshot 2025-02-22 at 11 01 59 PM" src="https://github.com/user-attachments/assets/022ded80-281a-47fa-9a2e-0ad6057b2a70" />
+
