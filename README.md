@@ -115,4 +115,12 @@ The bar chart displays significant batting partnerships from the match, highligh
 
 <img width="841" alt="Screenshot 2025-02-22 at 11 02 42 PM" src="https://github.com/user-attachments/assets/270b468e-bc35-4594-bb2b-3fb78627d4af" />
 
+The plot above provides a clear breakdown of the match into different phases; Powerplay, Middle, and Death, and illustrate how each team performed during these segments:
+
+1. **Powerplay**: Both teams have a relatively low total of runs, with RCB losing more wickets than DC in this phase, as indicated by the height of orange line.
+
+2. **Middle**: This phase shows the higest run-scoring for both teams, with DC scoring slightly more than RCB. The wickets lost remain controlled, suggesting stable innings from both teams.
+
+3. **Death**: RCB has a sharp decreasein runs compared to the middle phase, while DC maintains a high run rate. Wickets lost by RCB increased significantly in this phase, marked by the orange line peaking near 4.5, indicating a possible collapse or aggressive batting that did not pay off.
+
 
