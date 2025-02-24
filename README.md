@@ -190,7 +190,9 @@ The match between RCB and DC showcased a blend of strategic batting, aggressive 
 # Tech Stack
 
 1.Python 🐍
+
 2.Pandas (Data manipulation)
+
 3.Matplotlib & Seaborn (Data visualization)
 
 # Dataset
@@ -198,6 +200,8 @@ The match between RCB and DC showcased a blend of strategic batting, aggressive 
 The dataset innings_deliveries.csv contains ball-by-ball match data, including:
 
 1.Batters, Bowlers & Non-strikers
+
 2.Runs (batter, extras, and total)
+
 3.Wickets & dismissal types
 4.Overs & match phases
