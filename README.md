@@ -135,3 +135,69 @@ Here are the top performers in terms of strike rate from the match:
 2. **Virat Kohli** also scored efficiently, with a strike rate of 192.86, making 27 runs from 14 balls.
 3. **Rajat Patidar** contributed significantly with a strike rate of 152.94, accumulating 52 runs from 34 balls.
 
+## Plot 8
+
+<img width="765" alt="Screenshot 2025-02-24 at 5 17 29 PM" src="https://github.com/user-attachments/assets/dfc9d7b3-a49d-4279-a206-efdad448577e" />
+
+Now, let’s dive deeper by looking at how the strike rate varied with the phase of the game for these top performers. It could give insights into strategic scoring and game dynamics during different innings stages:
+
+The bar chart illustrates how the strike rates of the top performers varied across different phases of the match:
+
+**J Fraser-McGurk** stands out with a particularly high strike rate in the Middle phase, significantly higher than any other phase or player, suggesting a highly aggressive and effective batting performance during this part of the innings.
+
+**V Kohli** and **RM Patidar** both have high strike rates in the Death phase, indicating their ability to accelerate scoring towards the end of the innings, which is crucial for setting or chasing targets.
+
+**AR Patel** shows consistency in the Powerplay and Middle phases with a slightly reduced but still competitive strike rate, indicating his role as a steady opener or middle-order batter.
+
+**KV Sharma** exhibits a lower strike rate in the Middle phase compared to others, suggesting a more conservative approach during this phase or difficulty in accelerating.
+
+## Plot 9
+
+<img width="851" alt="Screenshot 2025-02-24 at 5 17 51 PM" src="https://github.com/user-attachments/assets/d83f3aa3-9723-4afc-8b3c-3b1d96d09279" />
+
+To identify the turning point where Delhi Capitals (DC) might have lost the game and Royal Challengers Bangalore (RCB) gained the upper hand, we can analyze the cumulative run rate comparison throughout the innings and look at wicket fall events. Specifically, we can:
+
+**Compare Cumulative Run Rates**: Plot the cumulative run rates of both teams throughout their innings to see where RCB started to outpace DC significantly.
+
+**Wicket Analysis**: Examine the timings and impacts of wicket falls on the scoring rate and momentum for DC.
+
+**High-Impact Overs**: Identify any overs where RCB took multiple wickets or DC had a significantly low scoring rate, which could indicate a loss of momentum.
+
+The plot shows the cumulative runs scored by each team throughout their innings, with markers indicating wickets:
+
+**Momentum Shifts**: The points where wickets are lost are crucial. Despite wickets, RCB’s run line does not show any drastic downturns, suggesting effective recovery by subsequent batters.
+
+**Performance Analysis**: RCB’s ability to keep the run rate up despite losing wickets might indicate deeper batting strength or successful innings pacing strategies. In contrast, DC, while also increasing their score, does so at a less steep rate, possibly indicating fewer big overs.
+
+
+## Plot 10
+
+<img width="877" alt="Screenshot 2025-02-24 at 5 18 19 PM" src="https://github.com/user-attachments/assets/ca70ecaa-367a-494f-bbe9-63543ed958fb" />
+
+Now, let’s calculate the run rate for each over for both teams and see how the run rates changed throughout the innings, particularly focusing on the overs where wickets fell:
+
+The plotted run rates for each over, along with the moments when wickets were taken (marked with large dots), provide insights into how the match’s dynamics evolved:
+
+**RCB Run Rate Fluctuations**: RCB’s run rate shows significant fluctuations, peaking at around 3.5 runs per ball towards the end of the innings. The presence of wicket markers (red circles) indicates that wickets were taken during overs where the run rate was generally lower, which is typical as wickets tend to disrupt batting flow.
+
+**DC Run Rate Patterns**: DC’s run rate starts strong but sees a sharp decline after the initial overs, stabilizing somewhat in the middle before another peak and subsequent fall towards the end. Wickets (blue circles) are taken in overs where the run rate drops, suggesting effective bowling from RCB during these times.
+
+# Summary
+
+The match between RCB and DC showcased a blend of strategic batting, aggressive bowling, and critical partnerships. RCB’s ability to maintain a higher cumulative run rate and effective wicket-taking in crucial overs contributed significantly to their victory. The detailed phase-wise and player-specific analysis not only highlights the dynamics of T20 cricket but also assists in understanding how momentum shifts and strategic decisions impact the game’s outcome.
+
+
+# Tech Stack
+
+1.Python 🐍
+2.Pandas (Data manipulation)
+3.Matplotlib & Seaborn (Data visualization)
+
+# Dataset
+
+The dataset innings_deliveries.csv contains ball-by-ball match data, including:
+
+1.Batters, Bowlers & Non-strikers
+2.Runs (batter, extras, and total)
+3.Wickets & dismissal types
+4.Overs & match phases
