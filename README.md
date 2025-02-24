@@ -123,4 +123,15 @@ The plot above provides a clear breakdown of the match into different phases; Po
 
 3. **Death**: RCB has a sharp decreasein runs compared to the middle phase, while DC maintains a high run rate. Wickets lost by RCB increased significantly in this phase, marked by the orange line peaking near 4.5, indicating a possible collapse or aggressive batting that did not pay off.
 
+## Plot 7(Data)
+
+<img width="382" alt="Screenshot 2025-02-22 at 11 06 28 PM" src="https://github.com/user-attachments/assets/02251b3b-5809-49f8-afba-45c8f14d861e" />
+
+Now, let’s calculate the strike rates for all batters in this match and then analyze the data to see which players were the most effective in terms of scoring quickly. After calculating the strike rates, we can look at correlations with other variables such as runs scored or the phase of play during which the runs were scored. This can give us insights into which players accelerate scoring at crucial times or against specific bowlers.
+
+Here are the top performers in terms of strike rate from the match:
+
+1. **J Fraser-McGurk** had the highest strike rate at 262.50, scoring 21 runs from just 8 balls.
+2. **Virat Kohli** also scored efficiently, with a strike rate of 192.86, making 27 runs from 14 balls.
+3. **Rajat Patidar** contributed significantly with a strike rate of 152.94, accumulating 52 runs from 34 balls.
 
