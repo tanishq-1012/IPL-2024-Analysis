@@ -204,4 +204,16 @@ The dataset innings_deliveries.csv contains ball-by-ball match data, including:
 2.Runs (batter, extras, and total)
 
 3.Wickets & dismissal types
+
 4.Overs & match phases
+
+# Sample Visualization
+
+📌 **Run Distribution Per Over**
+📈 Compares the scoring pattern of RCB and DC.
+
+📌 **Top Scorers**
+🏏 Displays highest run-scorers from each team.
+
+📌 **Bowling Performance**
+🎯 Wickets taken & economy rate visualization.
