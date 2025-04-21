@@ -23,31 +23,31 @@ The 📁 dataset we collected for this IPL match analysis contains the following
 
 The project performs multiple analyses and visualizations using Pandas, Matplotlib, and Seaborn.
 
-1. **Run Distribution Per Over**
+1. **`Run Distribution Per Over`**
 Plots the total runs scored per over for both teams.
 Uses a line plot to visualize scoring trends.
 
-2. **Top Scorers Analysis**
+2. **`Top Scorers Analysis`**
 Identifies the highest run-scorers from each team.
 Displays a bar chart comparing individual contributions.
 
-3. **Bowling Performance Analysis**
+3. **`Bowling Performance Analysis`**
 Calculates economy rate (runs conceded per over) for each bowler.
 Displays wickets taken and economy rates using bar and line plots.
 
-4. **Dismissal Types**
+4. **`Dismissal Types`**
 Analyzes how batters got out.
 Uses a pie chart to visualize different modes of dismissals.
 
-5. **Batting Partnerships**
+5. **`Batting Partnerships`**
 Calculates significant partnerships (20+ runs).
 Uses a bar plot to highlight top partnerships.
 
-6. **Match Phase Analysis**
+6. **`Match Phase Analysis`**
 Divides the match into Powerplay (0-6 overs), Middle Overs (7-15), and Death Overs (16-20).
 Analyzes run rates and wickets lost in each phase.
 
-7. **Batter Strike Rate Calculation**
+7. **`Batter Strike Rate Calculation`**
 Computes strike rates of batters based on runs scored and balls faced.
 
 ## Dependencies
