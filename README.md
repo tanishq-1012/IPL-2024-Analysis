@@ -62,7 +62,7 @@ The dataset has several null values. But we don't need to drop any row with null
 
 <img width="706" alt="Screenshot 2025-02-22 at 11 00 03 PM" src="https://github.com/user-attachments/assets/2fb91350-2f0c-4fd7-b978-fb9bf9a6aa85" />
 
-## Plot 1
+## Plot 1 📊
 
 <img width="872" alt="Screenshot 2025-02-22 at 11 00 38 PM" src="https://github.com/user-attachments/assets/76e865ff-6d15-49a3-ba14-ef6ecf957b17" />
 
@@ -72,7 +72,7 @@ The above plot shows the run distribution per over for both teams. Here are some
 
 2. Royal Challengers Bangalore(RCB) appears to have a couple of overs with significantly higher runs, suggesting aggressive batting.
 
-## Plot 2
+## Plot 2 📊
 
 <img width="935" alt="Screenshot 2025-02-22 at 11 00 59 PM" src="https://github.com/user-attachments/assets/09eed65d-5b84-4dfc-8c12-25dba1405efb" />
 
@@ -84,7 +84,7 @@ Key Oservations from the above graph include:
 
 3. The graph display diverse contribution from both teams, with several players from both sides contributing notable scores.
 
-## Polt 3
+## Polt 3 📈
 
 <img width="1001" alt="Screenshot 2025-02-22 at 11 01 27 PM" src="https://github.com/user-attachments/assets/7b26ed6b-f733-4204-8d25-381f1a773188" />
 
@@ -94,13 +94,13 @@ The combined bar and line plot provides a comprehensive overview of the bowling 
 
 2. **Economy Rate**: The line graph overlaid on the bar graph shows the economy rate(number of runs conceded per over) of each bowler. The economy rate is crucial as it indicates how economically a bowler has bowled in terms of runs given away. 
 
-## Plot 4
+## Plot 4 📈
 
 <img width="559" alt="Screenshot 2025-02-22 at 11 01 59 PM" src="https://github.com/user-attachments/assets/022ded80-281a-47fa-9a2e-0ad6057b2a70" />
 
 This above pie chart graph analyze the type of dimissals that occured during the match to understand how most wickets were taken(e.g., caught, bowled, run out). This can provide insights into nature of pitch and the playing conditions.
 
-## Plot 5
+## Plot 5 📉
 
 <img width="841" alt="Screenshot 2025-02-22 at 11 02 29 PM" src="https://github.com/user-attachments/assets/7035d4f9-5eba-48d2-bf32-b5c354656284" />
 
@@ -111,7 +111,7 @@ The bar chart displays significant batting partnerships from the match, highligh
 
 2. It provides insights into which players were involved in pivotal stands, which can help in assessing player forms and team strategy.
 
-## Plot 6
+## Plot 6 📉
 
 <img width="841" alt="Screenshot 2025-02-22 at 11 02 42 PM" src="https://github.com/user-attachments/assets/270b468e-bc35-4594-bb2b-3fb78627d4af" />
 
@@ -123,7 +123,7 @@ The plot above provides a clear breakdown of the match into different phases; Po
 
 3. **Death**: RCB has a sharp decreasein runs compared to the middle phase, while DC maintains a high run rate. Wickets lost by RCB increased significantly in this phase, marked by the orange line peaking near 4.5, indicating a possible collapse or aggressive batting that did not pay off.
 
-## Plot 7(Data)
+## Plot 7(Data) 📁
 
 <img width="382" alt="Screenshot 2025-02-22 at 11 06 28 PM" src="https://github.com/user-attachments/assets/02251b3b-5809-49f8-afba-45c8f14d861e" />
 
@@ -135,7 +135,7 @@ Here are the top performers in terms of strike rate from the match:
 2. **Virat Kohli** also scored efficiently, with a strike rate of 192.86, making 27 runs from 14 balls.
 3. **Rajat Patidar** contributed significantly with a strike rate of 152.94, accumulating 52 runs from 34 balls.
 
-## Plot 8
+## Plot 8 📊
 
 <img width="765" alt="Screenshot 2025-02-24 at 5 17 29 PM" src="https://github.com/user-attachments/assets/dfc9d7b3-a49d-4279-a206-efdad448577e" />
 
@@ -151,7 +151,7 @@ The bar chart illustrates how the strike rates of the top performers varied acro
 
 **KV Sharma** exhibits a lower strike rate in the Middle phase compared to others, suggesting a more conservative approach during this phase or difficulty in accelerating.
 
-## Plot 9
+## Plot 9 📊
 
 <img width="851" alt="Screenshot 2025-02-24 at 5 17 51 PM" src="https://github.com/user-attachments/assets/d83f3aa3-9723-4afc-8b3c-3b1d96d09279" />
 
@@ -169,8 +169,7 @@ The plot shows the cumulative runs scored by each team throughout their innings,
 
 **Performance Analysis**: RCB’s ability to keep the run rate up despite losing wickets might indicate deeper batting strength or successful innings pacing strategies. In contrast, DC, while also increasing their score, does so at a less steep rate, possibly indicating fewer big overs.
 
-
-## Plot 10
+## Plot 10 📊
 
 <img width="877" alt="Screenshot 2025-02-24 at 5 18 19 PM" src="https://github.com/user-attachments/assets/ca70ecaa-367a-494f-bbe9-63543ed958fb" />
 
@@ -195,7 +194,7 @@ The match between RCB and DC showcased a blend of strategic batting, aggressive 
 
 3.Matplotlib & Seaborn (Data visualization)
 
-# Dataset
+# Dataset 📁
 
 The dataset innings_deliveries.csv contains ball-by-ball match data, including:
 
