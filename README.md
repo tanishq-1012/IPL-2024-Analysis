@@ -5,7 +5,7 @@ This project analyzes the IPL 2024 match between Royal Challengers Bengaluru (RC
 
 ## IPL 2024 RCB Vs DC Analysis: Dataset
 
-The  dataset we collected for this IPL match analysis contains the following columns:
+The dataset we collected for this IPL match analysis contains the following columns:
 
 1. teams: Indicates the batting team.
 2. over: Over number in the match.
