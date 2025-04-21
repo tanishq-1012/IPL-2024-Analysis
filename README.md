@@ -1,6 +1,6 @@
 # IPL-2024-Analysis
 
-# Overview
+## Overview
 This project analyzes the IPL 2024 match between Royal Challengers Bengaluru (RCB) and Delhi Capitals (DC) using Python. It provides insights into team performance, batting, bowling, partnerships, and match phases through various data visualizations.
 
 ## IPL 2024 RCB Vs DC Analysis: Dataset
