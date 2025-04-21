@@ -9,9 +9,9 @@ The 📁 dataset we collected for this IPL match analysis contains the following
 
 1. `teams`: Indicates the batting team.
 2. `over`: Over number in the match.
-3. batter: The batsman facing delivery.
-4. bowler: The bowler delivering the ball.
-5. non_striker: The batsman at the non_striker's end.
+3. `batter`: The batsman facing delivery.
+4. `bowler`: The bowler delivering the ball.
+5. `non_striker`: The batsman at the non_striker's end.
 6. runs_batter: Runs scored by the batter off the delivery.
 7. runs_extras: Extra runs(like wides, no balls) were conceded during delivery.
 8. run_total: Total runs scored from the delivery.
