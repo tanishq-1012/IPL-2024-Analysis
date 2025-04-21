@@ -7,8 +7,8 @@ This project analyzes the IPL 2024 match between Royal Challengers Bengaluru (RC
 
 The 📁 dataset we collected for this IPL match analysis contains the following columns:
 
-1. teams: Indicates the batting team.
-2. over: Over number in the match.
+1. `teams`: Indicates the batting team.
+2. `over`: Over number in the match.
 3. batter: The batsman facing delivery.
 4. bowler: The bowler delivering the ball.
 5. non_striker: The batsman at the non_striker's end.
